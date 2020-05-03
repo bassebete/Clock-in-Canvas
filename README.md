@@ -3,5 +3,5 @@
 
 ![Clock](screen/Clock.gif)
 
-## CREDITOS
+## CREDITOS: Univerço dos Nerds
 ### https://www.youtube.com/channel/UCTDn3iSvzkAy4k931peZyMg
