@@ -1,3 +1,6 @@
+//CREDITOS: Universo dos Nerds
+//https://www.youtube.com/channel/UCTDn3iSvzkAy4k931peZyMg
+
 var canvas = document.getElementById("Myclock");
 var ctx = canvas.getContext("2d");
 var raio = canvas.height/2;
